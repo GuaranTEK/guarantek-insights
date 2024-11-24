@@ -3,7 +3,7 @@
 		{
 			"slug": "how-to-create-an-expandable-sidebar",
 			"title": "How To Create An Expandable Sidebar | Step-By-Step Tutorial",
-			"banner": "https://raw.githubusercontent.com/haorocks/guanrantek-insights/master/insights/how-to-create-an-expandable-sidebar/banner.jpg",
+			"banner": "https://raw.githubusercontent.com/haorocks/guarantek-insights/master/insights/how-to-create-an-expandable-sidebar/banner.jpg",
 			"description": "In this front-end development tutorial, we'll create an expandable/collapsible sidebar menu using HTML, CSS, and JavaScript. A sidebar menu is a crucial element for many websites, helping users navigate through different sections effortlessly. This video will guide you step-by-step to build responsive, user-friendly expandable sidebar navigation that enhances your website's usability and design.",
 			"category": "DEVLOG",
 			"date": "23.11.2024"
@@ -11,7 +11,7 @@
 		{
 			"slug": "simple-css-subgrid-tricks-to-solve-real-life-layout-challenges",
 			"title": "Simple CSS SUBGRID Tricks to Solve Real-Life Layout Challenges",
-			"banner": "https://raw.githubusercontent.com/haorocks/guanrantek-insights/master/insights/simple-css-subgrid-tricks-to-solve-real-life-layout-challenges.jpg",
+			"banner": "https://raw.githubusercontent.com/haorocks/guarantek-insights/master/insights/simple-css-subgrid-tricks-to-solve-real-life-layout-challenges.jpg",
 			"description": "Unlock the secret to flawless layouts with CSS Subgrid and transform your designs with the Subgrid Magic!",
 			"category": "DEVLOG",
 			"date": "22.11.2024"
@@ -19,7 +19,7 @@
 		{
 			"slug": "how-css-grid-auto-placement-does-all-the-work-for-you",
 			"title": "How CSS GRID AUTO PLACEMENT does all the work for you!",
-			"banner": "https://raw.githubusercontent.com/haorocks/guanrantek-insights/master/insights/how-css-grid-auto-placement-does-all-the-work-for-you.jpg",
+			"banner": "https://raw.githubusercontent.com/haorocks/guarantek-insights/master/insights/how-css-grid-auto-placement-does-all-the-work-for-you.jpg",
 			"description": "Take a closer look at CSS Grid Auto Placement. Learn how to let CSS do the heavy lifting without manually placing every single item.",
 			"category": "DEVLOG",
 			"date": "21.11.2024"
@@ -27,7 +27,7 @@
 		{
 			"slug": "the-ultimate-guide-to-fixing-broken-images-no-more-bad-layouts",
 			"title": "The ultimate guide to fixing broken images – No more bad layouts",
-			"banner": "https://raw.githubusercontent.com/haorocks/guanrantek-insights/master/insights/the-ultimate-guide-to-fixing-broken-images-no-more-bad-layouts.jpg",
+			"banner": "https://raw.githubusercontent.com/haorocks/guarantek-insights/master/insights/the-ultimate-guide-to-fixing-broken-images-no-more-bad-layouts.jpg",
 			"description": "In this front-end development tutorial, we’re diving deep into the world of broken images and exploring how to style them into stunning placeholders! We all know how frustrating it can be when images on a website don’t load properly—whether it's due to incorrect file paths, network issues, or server errors. But don’t worry, we’ve got it covered with some incredible CSS tricks and JavaScript solutions that will turn those broken images into eye-catching placeholders that keep the website sharp and professional.",
 			"category": "DEVLOG",
 			"date": "20.11.2024"
