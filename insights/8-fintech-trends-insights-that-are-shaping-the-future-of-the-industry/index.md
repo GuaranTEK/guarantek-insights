@@ -1,18 +1,16 @@
 ---
 title: "8 FinTech trends & insights that are shaping the future of the industry"
-description: "Working in venture capital offers insights into the problems, challenges, and new markets today’s entrepreneurs are addressing at the very earliest opportunity, a window on disruption and innovation. Business models are being redefined at an ever-quickening pace, and this is particularly visible in FinTech. We recently sat down with the founders of all of our FinTech investments with the following key learnings and insights."
+description: "Through this series, GuaranTEK will provide unparalleled access to closed room discussions around the challenges and opportunities experienced by those innovating at the forefront of the industry."
 banner: "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/8-fintech-trends-insights-that-are-shaping-the-future-of-the-industry/banner.jpg"
 category: "Insights"
 date: "01.12.2024"
 ---
 
-Welcome to Guarantek's Insights, where we bring industry leaders, founders, and experts working in the same sector together to problem solve, share emerging trends and technologies. Through this series, Guarantek will provide unparalleled access to closed room discussions around the challenges and opportunities experienced by those innovating at the forefront of the industry.
-
 &nbsp;
 
 &nbsp;
 
-# Fintech everywhere
+# 1. Fintech everywhere
 
 &nbsp;
 
@@ -22,7 +20,7 @@ While Fintech is estimated to represent c. 14% of global venture, the category i
 
 &nbsp;
 
-# Dealing with legacy
+# 2. Dealing with legacy
 
 &nbsp;
 
@@ -32,7 +30,7 @@ Financial architecture is changing fast with start-ups able to build quickly and
 
 &nbsp;
 
-# Price and regulatory arbitrage
+# 3. Price and regulatory arbitrage
 
 &nbsp;
 
@@ -42,7 +40,7 @@ Following from the above, this might equally be called time and efficiency arbit
 
 &nbsp;
 
-# Democratisation of access
+# 4. Democratisation of access
 
 &nbsp;
 
@@ -52,7 +50,7 @@ Access remains the preserve of the privileged and the few. Starting with banking
 
 &nbsp;
 
-# The death of cash
+# 5. The death of cash
 
 &nbsp;
 
@@ -62,7 +60,7 @@ Already underway for some time, the death of cash has been expedited by COVID19,
 
 &nbsp;
 
-# Modularity and atomisation of financial services
+# 6. Modularity and atomisation of financial services
 
 &nbsp;
 
@@ -72,7 +70,7 @@ This is particularly visible in insurance with product-driven innovation reactin
 
 &nbsp;
 
-# Search for yield
+# 7. Search for yield
 
 &nbsp;
 
@@ -82,7 +80,7 @@ In October 2020, Goldman Sachs reported on Bloomberg that while a traditional 60
 
 &nbsp;
 
-# ESG everywhere
+# 8. ESG everywhere
 
 &nbsp;
 

@@ -24,6 +24,8 @@ For this reason, websites need to pay attention to the basics to ensure they app
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/1.jpg)
 
+> Source: [Myriam Jessier](https://unsplash.com/photos/person-using-macbook-pro-on-black-table-eveI7MOcSmw)
+
 &nbsp;
 
 &nbsp;
@@ -63,6 +65,8 @@ Simplicity in website design goes beyond aesthetics. It’s about creating an in
 &nbsp;
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/2.jpg)
+
+> Source: [Abillion](https://unsplash.com/photos/person-holding-silver-iphone-6--3NppQrQHis)
 
 &nbsp;
 
@@ -114,6 +118,8 @@ Here are some crucial elements for a mobile-friendly website:
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/3.jpg)
 
+> Source: [Kenny Eliason](https://unsplash.com/photos/person-holding-space-gray-iphone-LUgHXvLe_kM)
+
 &nbsp;
 
 &nbsp;
@@ -139,6 +145,8 @@ Choosing the right color palette is a strategic decision that goes beyond aesthe
 &nbsp;
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/4.jpg)
+
+> Source: [Taylor Heery](https://unsplash.com/photos/white-and-orange-sticky-notes-hv2yJQdxyi0)
 
 &nbsp;
 
@@ -204,6 +212,8 @@ By embracing minimalist design principles, you can create an aesthetically pleas
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/5.jpg)
 
+> Source: [Marqeta](https://www.marqeta.com/)
+
 &nbsp;
 
 &nbsp;
@@ -233,6 +243,8 @@ Like a well-maintained exterior enhances a building's curb appeal, compressing y
 &nbsp;
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/6.jpg)
+
+> Source: [Luca Bravo](https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0)
 
 &nbsp;
 
@@ -268,6 +280,8 @@ JavaScript offers a powerful way to add interactivity and dynamic elements to yo
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/7.jpg)
 
+> Source: [Pankaj Patel](https://unsplash.com/photos/turned-on-monitor-displaying-programming-language-u2Ru4QBXA5Q)
+
 &nbsp;
 
 By using JavaScript judiciously and implementing performance optimization techniques, you can leverage its benefits while maintaining a fast-loading website that ranks well in search engines.
@@ -301,6 +315,8 @@ Imagine building a house with faulty blueprints. The structure might be unstable
 &nbsp;
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/8.jpg)
+
+> Source: [NPM](https://www.npmjs.com/package/w3c-html-validator)
 
 &nbsp;
 
@@ -340,6 +356,8 @@ Broken links are like malfunctioning traffic lights on a website - they disrupt 
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/9.jpg)
 
+> Source: [Ahrefs](https://ahrefs.com/seo/glossary/broken-link)
+
 &nbsp;
 
 &nbsp;
@@ -373,6 +391,8 @@ A well-structured URL acts as a clear signpost, guiding both users and search en
 &nbsp;
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/10.jpg)
+
+> Source: [Hubspot](https://blog.hubspot.com/marketing/parts-url)
 
 &nbsp;
 
@@ -426,6 +446,8 @@ Here are some tips for writing effective alt text:
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/11.jpg)
 
+> Source: [Mangools](https://mangools.com/blog/alt-text/)
+
 &nbsp;
 
 &nbsp;
@@ -459,6 +481,8 @@ Additionally, integrating SEO web design into your website ensures that it looks
 &nbsp;
 
 ![seo](https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/12.jpg)
+
+> Source: [Semrush](https://www.semrush.com/blog/meta-description/)
 
 &nbsp;
 
