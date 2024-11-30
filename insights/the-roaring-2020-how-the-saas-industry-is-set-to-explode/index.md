@@ -1,7 +1,9 @@
 ---
 title: "The Roaring 2020’s: How the SaaS industry is set to explode"
-category: "INSIGHTS"
-date: "01.01.2024"
+description: "The SaaS industry is set explode with founders who are experimenting with new business models, technologies & attempting to solve the world’s greatest problems"
+banner: "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/the-roaring-2020-how-the-saas-industry-is-set-to-explode/banner.jpg"
+category: "Insights"
+date: "01.12.2024"
 ---
 
 As venture capital investors, it is our job to constantly be in contact with founders: innovative people, who are experimenting with new business models, working on bleeding edge technologies, and attempting to solve the world's most difficult problems.
@@ -14,7 +16,7 @@ This is particularly true in SaaS, where companies are being built that have the
 
 &nbsp;
 
-## 1. The 2020s will be the roaring 20s for SaaS companies
+# The 2020s will be the roaring 20s for SaaS companies
 
 &nbsp;
 
@@ -24,7 +26,7 @@ Large companies are adopting new tools at a much quicker pace than before, drive
 
 &nbsp;
 
-## 2. AI is becoming real, and useful
+# AI is becoming real, and useful
 
 &nbsp;
 
@@ -34,7 +36,7 @@ AI has been a talking point for some time, but its application to our day-to-day
 
 &nbsp;
 
-## 3. The consumerization of software continues, and now it's getting personalized
+# The consumerization of software continues, and now it's getting personalized
 
 &nbsp;
 
@@ -44,7 +46,7 @@ Software is becoming increasingly consumerized. Startups are building for, and s
 
 &nbsp;
 
-## 4. APIs open the doors between large organizations and startups
+# APIs open the doors between large organizations and startups
 
 &nbsp;
 
@@ -54,7 +56,7 @@ Large corporations are increasingly making their APIs available to startups, fos
 
 &nbsp;
 
-## 5. Niche markets provide huge opportunities
+# Niche markets provide huge opportunities
 
 &nbsp;
 
@@ -64,7 +66,7 @@ The increasing digitisation of our daily lives is opening up new opportunities a
 
 &nbsp;
 
-## 6. No-code tools makes everyone a builder
+# No-code tools makes everyone a builder
 
 &nbsp;
 
@@ -74,7 +76,7 @@ The popularity of no-code and low-code tools continues to increase, allowing any
 
 &nbsp;
 
-## 7. Alternative financing for SaaS companies
+# Alternative financing for SaaS companies
 
 &nbsp;
 

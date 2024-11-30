@@ -3,26 +3,34 @@
 		{
 			"slug": "8-fintech-trends-insights-that-are-shaping-the-future-of-the-industry",
 			"title": "8 FinTech trends & insights that are shaping the future of the industry",
-			"banner": "https://raw.githubusercontent.com/haorocks/guarantek-insights/master/insights/8-fintech-trends-insights-that-are-shaping-the-future-of-the-industry/banner.png",
+			"banner": "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/8-fintech-trends-insights-that-are-shaping-the-future-of-the-industry/banner.jpg",
 			"description": "Working in venture capital offers insights into the problems, challenges, and new markets today’s entrepreneurs are addressing at the very earliest opportunity, a window on disruption and innovation. Business models are being redefined at an ever-quickening pace, and this is particularly visible in FinTech. We recently sat down with the founders of all of our FinTech investments with the following key learnings and insights.",
-			"category": "INSIGHTS",
-			"date": "01.01.2024"
+			"category": "Insights",
+			"date": "01.12.2024"
 		},
 		{
 			"slug": "the-roaring-2020-how-the-saas-industry-is-set-to-explode",
 			"title": "The Roaring 2020’s: How the SaaS industry is set to explode",
-			"banner": "https://raw.githubusercontent.com/haorocks/guarantek-insights/master/insights/the-roaring-2020-how-the-saas-industry-is-set-to-explode/banner.png",
+			"banner": "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/the-roaring-2020-how-the-saas-industry-is-set-to-explode/banner.jpg",
 			"description": "The SaaS industry is set explode with founders who are experimenting with new business models, technologies & attempting to solve the world’s greatest problems",
-			"category": "INSIGHTS",
-			"date": "01.01.2024"
+			"category": "Insights",
+			"date": "01.12.2024"
 		},
 		{
 			"slug": "daos-and-web3-governance-the-promise-implications-and-challenges-ahead",
 			"title": "DAOs and Web3 Governance: The Promise, Implications and Challenges Ahead",
-			"banner": "https://raw.githubusercontent.com/haorocks/guarantek-insights/master/insights/daos-and-web3-governance-the-promise-implications-and-challenges-ahead/banner.png",
+			"banner": "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/daos-and-web3-governance-the-promise-implications-and-challenges-ahead/banner.jpg",
 			"description": "The past two years in crypto have been absolutely astounding. From “DeFi summer” (now $250bn+ of total value locked) to “NFT craze” ($3.4bn monthly GMV on Opensea  alone in August 2021) to Solana’s epic rise and various memecoin’s ultimate downfalls – the sheer pace of adoption and activity across the crypto ecosystem has been an incredible force.",
-			"category": "INSIGHTS",
-			"date": "01.01.2024"
+			"category": "Insights",
+			"date": "01.12.2024"
+		},
+		{
+			"slug": "seo-web-design-driving-traffic-and-boosting-rankings",
+			"title": "SEO Web Design: Driving Traffic and Boosting Rankings",
+			"banner": "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/banner.jpg",
+			"description": "Unlock the secrets to elevate your website's visibility and aesthetics with our top 12 SEO-centric design tips",
+			"category": "SEO",
+			"date": "01.12.2024"
 		}
 	]
 }

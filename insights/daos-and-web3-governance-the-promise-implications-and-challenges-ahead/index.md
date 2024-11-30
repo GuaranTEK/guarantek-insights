@@ -1,14 +1,18 @@
 ---
 title: "DAOs and Web3 Governance: The Promise, Implications and Challenges Ahead"
-category: "INSIGHTS"
-date: "01.01.2024"
+description: "The past two years in crypto have been absolutely astounding. From “DeFi summer” (now $250bn+ of total value locked) to “NFT craze” ($3.4bn monthly GMV on Opensea  alone in August 2021) to Solana’s epic rise and various memecoin’s ultimate downfalls – the sheer pace of adoption and activity across the crypto ecosystem has been an incredible force."
+banner: "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/daos-and-web3-governance-the-promise-implications-and-challenges-ahead/banner.jpg"
+category: "Insights"
+date: "01.12.2024"
 ---
 
 Every venture fund in the world is deepening or developing a crypto thesis. And we now have an overarching, epochal narrative to define the movement: web3.
 
 &nbsp;
 
-## DAO Basics
+&nbsp;
+
+# DAO Basics
 
 &nbsp;
 
@@ -28,7 +32,9 @@ Let’s take the example of Uniswap and see how a DAO functions in practice.
 
 &nbsp;
 
-## DAO Case Study: Uniswap in Action
+&nbsp;
+
+# DAO Case Study: Uniswap in Action
 
 &nbsp;
 
@@ -100,7 +106,9 @@ While the idea of DAOs is not new, they have reached a critical inflection point
 
 &nbsp;
 
-## Why do DAOs matter?
+&nbsp;
+
+# Why do DAOs matter?
 
 &nbsp;
 
@@ -108,7 +116,9 @@ Crypto is a hotbed of live experimentation, and it’s exciting to see a multi-b
 
 &nbsp;
 
-## The Network View: Creating User-Centric Networks
+&nbsp;
+
+# The Network View: Creating User-Centric Networks
 
 &nbsp;
 
@@ -128,7 +138,9 @@ In web3, the hypothesis is to create a different framework for network evolution
 
 &nbsp;
 
-## The Organization View: Creating Autonomous Legal Entities
+&nbsp;
+
+# The Organization View: Creating Autonomous Legal Entities
 
 &nbsp;
 
@@ -160,7 +172,9 @@ I assume that with formal regulation, it will be difficult if not impossible to 
 
 &nbsp;
 
-## The Community View: Enabling Grassroots Organization
+&nbsp;
+
+# The Community View: Enabling Grassroots Organization
 
 &nbsp;
 
@@ -172,7 +186,9 @@ One of the most beautiful things about the Internet is its collection of weird, 
 
 &nbsp;
 
-## DAOs: Where We Are Today
+&nbsp;
+
+# DAOs: Where We Are Today
 
 &nbsp;
 
@@ -204,7 +220,9 @@ While these above challenges remain “open questions” for scaling and adoptio
 
 &nbsp;
 
-## Our Thesis: Opportunities to Watch Out For
+&nbsp;
+
+# Our Thesis: Opportunities to Watch Out For
 
 &nbsp;
 
