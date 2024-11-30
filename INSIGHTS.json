@@ -1,30 +1,6 @@
 {
 	"insights": [
 		{
-			"slug": "8-fintech-trends-insights-that-are-shaping-the-future-of-the-industry",
-			"title": "8 FinTech trends & insights that are shaping the future of the industry",
-			"banner": "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/8-fintech-trends-insights-that-are-shaping-the-future-of-the-industry/banner.jpg",
-			"description": "Through this series, GuaranTEK will provide unparalleled access to closed room discussions around the challenges and opportunities experienced by those innovating at the forefront of the industry.",
-			"category": "Insights",
-			"date": "01.12.2024"
-		},
-		{
-			"slug": "the-roaring-2020-how-the-saas-industry-is-set-to-explode",
-			"title": "The Roaring 2020’s: How the SaaS industry is set to explode",
-			"banner": "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/the-roaring-2020-how-the-saas-industry-is-set-to-explode/banner.jpg",
-			"description": "The SaaS industry is set explode with founders who are experimenting with new business models, technologies & attempting to solve the world’s greatest problems",
-			"category": "Insights",
-			"date": "01.12.2024"
-		},
-		{
-			"slug": "daos-and-web3-governance-the-promise-implications-and-challenges-ahead",
-			"title": "DAOs and Web3 Governance: The Promise, Implications and Challenges Ahead",
-			"banner": "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/daos-and-web3-governance-the-promise-implications-and-challenges-ahead/banner.jpg",
-			"description": "The past two years in crypto have been absolutely astounding. From “DeFi summer” (now $250bn+ of total value locked) to “NFT craze” ($3.4bn monthly GMV on Opensea  alone in August 2021) to Solana’s epic rise and various memecoin’s ultimate downfalls – the sheer pace of adoption and activity across the crypto ecosystem has been an incredible force.",
-			"category": "Insights",
-			"date": "01.12.2024"
-		},
-		{
 			"slug": "seo-web-design-driving-traffic-and-boosting-rankings",
 			"title": "SEO Web Design: Driving Traffic and Boosting Rankings",
 			"banner": "https://raw.githubusercontent.com/GuaranTEK/guarantek-insights/master/insights/seo-web-design-driving-traffic-and-boosting-rankings/banner.jpg",
